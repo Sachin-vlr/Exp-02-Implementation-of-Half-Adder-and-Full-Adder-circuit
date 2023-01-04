@@ -28,11 +28,11 @@ Connect the supply (+5V) to the circuit Switch ON the main switch If the output 
 
 Program:
 ```
-/*
+
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: vinush.cv
-RegisterNumber:  22001897
-*/
+Developed by: SACHIN.C
+RegisterNumber:  22001187
+
 Program:
 #Half adder :
 module exptwo(a,b,sum,carry);
