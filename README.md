@@ -47,23 +47,27 @@ output sum,carry;
 assign sum = ((a^b)^c);
 assign carry = ((a&b)|(b&c)|(c&a));
 endmodule
-Logic symbol & Truthtable exp2001
+Logic symbol & Truthtable
+![logicgate](https://user-images.githubusercontent.com/113497666/210476088-d50330fd-2da7-4304-b7df-6ed899b2763a.jpg)
 
 RTL realization
 
 Output:
 RTL
 HALF ADDER
-exp2002
+![half](https://user-images.githubusercontent.com/113497666/210476152-9d803e63-57a2-4f5a-8a0a-a75abeed8b2b.png)
 
 FULL ADDER
-exp2003
+![fulladder](https://user-images.githubusercontent.com/113497666/210476185-d85cf05b-b364-4104-880b-2caa7ae4dfa8.png)
+
 
 TIMING DIAGRAM
-exp2004
+![timing](https://user-images.githubusercontent.com/113497666/210476207-84835d9f-a94d-4b55-9866-a43772bed591.png)
+
 
 TRUTH TABLE
-exp2005
+![truth](https://user-images.githubusercontent.com/113497666/210476222-b86eb9f6-a4d1-4c1f-8ba6-1c2b160c9b58.png)
+
 
 Result:
 Thus the half adder and full adder are studied and the truth table for different logic gates are verified.
